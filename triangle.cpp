@@ -2,7 +2,7 @@
 #include <cmath>
 
 using namespace std;
-
+//123
 // вычисление периметра треугольника
 double trianglePerimeter(double a, double b, double c) {
     return a + b + c;
